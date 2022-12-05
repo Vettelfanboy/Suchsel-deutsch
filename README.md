@@ -36,11 +36,10 @@ Unser Projekt ist ein Suchsel mit verschiedenen Wortarten.
 | 1.3 | Das Programm fragt dich nach der deiner gewählten Wortwahl ab. | "17" | Fehlerhafte Eingabe bitte erneut eingeben. |
 | 2.1 | Das Programm fragt dich wie gross das Suchsel sein soll. | "17" | Das Programm fragt die nächst Dimension. |
 | 2.2 | Das Programm fragt dich wie gross das Suchsel sein soll. | "Stein" |  Fehlerhafte Eingabe bitte erneut eingeben. |
-| 3.1 | Der User hat alle Versuche aufgebraucht. | keine Eingabe | Das Programm zeigt alle gefundene und nicht gefundene Wörter und schaltet ab. |
+| 3.1 | Der User hat alle Versuche aufgebraucht. | keine Eingabe | Das Programm zeigt alle nicht gefundenen Wörter und schaltet ab. |
 | 4.1 | Das Programm wurde gestartet und das Suchsel erstellt | richtige Eingabe | Das richtig eingegebene Wort wird Grün im Suchsel angezeigt. |
-| 5.1 | Der User hat alle Versuche aufgebraucht. | keine Eingabe | Das Programm zeigt alle gefundene und nicht gefundene Wörter. |
-| 6.1 |  |  |  |
-| 7.1 |  |  |  |
+| 4.2 | Das Programm wurde gestartet und das Suchsel erstellt |  |  |
+| . |  |  |  |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -69,7 +68,7 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 26.09 |           |               |                   |
+| 1.A  |       |           |               |                   |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
@@ -80,8 +79,13 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 05.12.2022 | OK | Simon Veljkovic |
+| 1.2  | 05.12.2022 | OK | Simon Veljkovic |
+| 1.3  | 05.12.2022 | OK | Simon Veljkovic |
+| 2.1  | 05.12.2022 | OK | Simon Veljkovic |
+| 2.2  | 05.12.2022 | OK | Simon Veljkovic |
+| 3.1  | 05.12.2022 | OK | Simon Veljkovic |
+| 4.1  | 05.12.2022 | OK | Simon Veljkovic |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
